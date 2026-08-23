@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/github_actions/github-actions-2e71821e06",
+    "fix-flakes/windows-latest-32001728757",
+    "fix-flakes/windows-latest-32106924123",
+    "fix-flakes/windows-latest-32339615014",
+    "main",
+    "origin",
+    "roll-into-pw-chromium/1240",
+    "roll-into-pw-chromium/1242"
+  ],
+  "parent": {
+    "dependabot/github_actions/github-actions-2e71821e06": "main",
+    "fix-flakes/windows-latest-32001728757": "main",
+    "fix-flakes/windows-latest-32106924123": "main",
+    "fix-flakes/windows-latest-32339615014": "main",
+    "main": null,
+    "origin": "main",
+    "roll-into-pw-chromium/1240": "main",
+    "roll-into-pw-chromium/1242": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/github_actions/github-actions-2e71821e06",
+    "fix-flakes/windows-latest-32001728757",
+    "fix-flakes/windows-latest-32106924123",
+    "fix-flakes/windows-latest-32339615014",
+    "origin",
+    "roll-into-pw-chromium/1240",
+    "roll-into-pw-chromium/1242"
+  ]
+}
